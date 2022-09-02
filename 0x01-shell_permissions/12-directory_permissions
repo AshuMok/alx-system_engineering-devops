@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod file /tmp/iamafile
+chmod 753 hello
