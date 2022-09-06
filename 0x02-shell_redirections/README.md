@@ -1,1 +1,1 @@
-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+Create a script that decodes acrostics that use the first letter of each line.
