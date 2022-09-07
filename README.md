@@ -1,1 +1,1 @@
-Write a script that prints the effective username of the current user.
+Create a script that counts the number of directories in the PATH.
